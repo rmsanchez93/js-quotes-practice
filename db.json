@@ -54,6 +54,16 @@
       "id": 11,
       "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
       "author": "Ann Richards"
+    },
+    {
+      "quote": "Oooof ",
+      "author": "Nestor ",
+      "id": 13
+    },
+    {
+      "quote": "it be like that",
+      "author": "Ian",
+      "id": 14
     }
   ],
   "likes": [
@@ -66,6 +76,66 @@
       "quoteId": 10,
       "id": 2,
       "createdAt": 1558524358
+    },
+    {
+      "quoteId": 13,
+      "createdAt": 1618345384716,
+      "id": 3
+    },
+    {
+      "quoteId": 14,
+      "createdAt": 1618345622890,
+      "id": 4
+    },
+    {
+      "quoteId": 14,
+      "createdAt": 1618345627746,
+      "id": 5
+    },
+    {
+      "quoteId": 14,
+      "createdAt": 1618345632428,
+      "id": 6
+    },
+    {
+      "quoteId": 14,
+      "createdAt": 1618345635624,
+      "id": 7
+    },
+    {
+      "quoteId": 14,
+      "createdAt": 1618345636777,
+      "id": 8
+    },
+    {
+      "quoteId": 14,
+      "createdAt": 1618345637707,
+      "id": 9
+    },
+    {
+      "quoteId": 13,
+      "createdAt": 1618345669357,
+      "id": 10
+    },
+    {
+      "quoteId": 13,
+      "createdAt": 1618345669844,
+      "id": 11
+    },
+    {
+      "quoteId": 13,
+      "createdAt": 1618345670046,
+      "id": 12
+    },
+    {
+      "quoteId": 13,
+      "createdAt": 1618345670284,
+      "id": 13
+    },
+    {
+      "quoteId": 13,
+      "createdAt": 1618345670457,
+      "id": 14
     }
   ]
 }
